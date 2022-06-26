@@ -5,3 +5,5 @@ vite react typescript
 - local storage
 - typescript 
 - react bootstrap
+- 
+https://precious-taffy-3d678d.netlify.app/Store
